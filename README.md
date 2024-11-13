@@ -1,1 +1,1 @@
-# project1
+# Python Mini Project on Password Generator
