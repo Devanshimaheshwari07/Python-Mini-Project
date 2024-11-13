@@ -31,7 +31,7 @@ The second option is generating a random password based on the password length t
 - `sample` function for random sampling, randomly picking more than one element from the list without repeating elements. It returns a list of unique items chosen randomly from the list, sequence, or set.
 
 
-## Output
+## Sample Output
 
 ### Scenario - 1
 ```sh
