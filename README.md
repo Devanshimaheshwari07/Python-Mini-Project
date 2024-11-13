@@ -1,6 +1,9 @@
 # Python Project on Password Generator
 ##(Random Password Generator and Based on Condition)
 
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+
+
 ##Introduction
 ###In an age where online security is paramount, creating strong and unique passwords is critical to protecting personal information from unauthorized access. This mini-project focuses on developing a password generator in Python that generates random passwords based on user-defined conditions.
 The password generator allows users to specify various criteria, including the desired length of the password and the types of characters it should contain, such as uppercase letters, lowercase letters, numbers, and special symbols. By customizing these parameters, users can create secure passwords tailored to their needs.
