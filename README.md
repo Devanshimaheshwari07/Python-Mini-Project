@@ -1,20 +1,20 @@
 # Python Project on Password Generator
-##(Random Password Generator and Based on Condition)
+## (Random Password Generator and Based on Condition)
 
 
 
-##Introduction
+## Introduction
 
 In an age where online security is paramount, creating strong and unique passwords is critical to protecting personal information from unauthorized access. This mini-project focuses on developing a password generator in Python that generates random passwords based on user-defined conditions.
 The password generator allows users to specify various criteria, including the desired length of the password and the types of characters it should contain, such as uppercase letters, lowercase letters, numbers, and special symbols. By customizing these parameters, users can create secure passwords tailored to their needs.
 Using built-in Python libraries, this project emphasizes simplicity and usability, while ensuring that generated passwords are random and secure. Through this mini project, we aim to provide a practical tool that increases password security for users in their digital lives.
 
 
-###Scenario 1
+### Scenario 1
 
 The First option is to generate the password based on the requirements provided by the user. In which the requirements include how many alphabets, digits, special characters, and overall total length of the password are required.
 
-###Scenario 2
+### Scenario 2
 
 The second option is generating a random password based on the password length that we are providing. Here there is no other input required from the user-side.
 
@@ -31,7 +31,7 @@ The second option is generating a random password based on the password length t
 - `sample` function for random sampling, randomly picking more than one element from the list without repeating elements. It returns a list of unique items chosen randomly from the list, sequence, or set.
 
 
-##Output
+## Output
 
 ```sh
 python3 password.py
