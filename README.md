@@ -27,6 +27,9 @@ The second option is generating a random password based on the password length t
 
 
 ##Output
+
+```sh
+python3 password.py
 Please Select the below options
 
 1 - Generating based on Conditions
