@@ -2,7 +2,6 @@
 ## (Random Password Generator and Based on Condition)
 
 
-
 ## Introduction
 
 In an age where online security is paramount, creating strong and unique passwords is critical to protecting personal information from unauthorized access. This mini-project focuses on developing a password generator in Python that generates random passwords based on user-defined conditions.
