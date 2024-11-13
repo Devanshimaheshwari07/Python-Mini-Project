@@ -33,6 +33,7 @@ The second option is generating a random password based on the password length t
 
 ## Output
 
+### Scenario - 1
 ```sh
 python3 password.py
 Please Select the below options
@@ -47,7 +48,7 @@ Enter the Special Characters Count: 5
 UyqxYf4616.{%@.:
 ```
 
-### Secnario - 2
+### Scenario - 2
 
 ```sh
 python3 password.py
