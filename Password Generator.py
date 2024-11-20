@@ -10,11 +10,9 @@ class PasswordGenerator:
         self.password_characters = list(self.alphabets + self.digits + self.special_characters)
 
     def generate_random_password(self):
-        """Generate a password with random characters."""
         return "".join(random.sample(self.password_characters, self.length))
 
     def generate_password_with_conditions(self, alpha_count, digit_count, special_count):
-        """Generate a password based on specified counts."""
         total_count = alpha_count + digit_count + special_count
         if total_count > self.length:
             raise ValueError("Total character count exceeds password length.")
@@ -27,7 +25,6 @@ class PasswordGenerator:
         random.shuffle(password)
         return "".join(password)
 
-# Example Usage
 try:
     print("1: Generate password with conditions")
     print("2: Generate random password")
